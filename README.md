@@ -1,0 +1,1 @@
+This is Reference Schematic that runs the wiring inside for Custom Dance Dance Revolution Game. This is a collabrative project and this schematic was singehandly generate by me to help build a functional game.
